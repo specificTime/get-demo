@@ -8,4 +8,4 @@ hellow zhanghran!!! hellow git!!!
 hellow zhanghran!!! hellow git!!!
 hellow zhanghran!!! hellow git!!!
 hellow zhanghran!!! hellow git!!! master text
-hellow zhanghran!!! hellow giti!!
+hellow zhanghran!!! hellow giti!! hot-fix1 test
